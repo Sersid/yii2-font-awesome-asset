@@ -1,6 +1,6 @@
 Yii2 FontAwesome Asset
 ======
-Manage configuration from database
+Adding FontAwesome to your Yii2 project via Composer
 
 Installation
 ------------
