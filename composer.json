@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "sersid\\fontawesome\\": ""
+            "sersid\\assets\\": ""
         }
     }
 }

@@ -1,5 +1,5 @@
 <?php
-namespace sersid\fontawesome;
+namespace sersid\assets;
 
 use yii\web\AssetBundle;
 
