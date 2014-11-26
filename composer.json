@@ -2,7 +2,7 @@
     "name": "sersid/yii2-font-awesome-asset",
     "description": "Adding FontAwesome to your Yii2 project via Composer",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension"],
+    "keywords": ["yii2","extension","FontAwesome","asset"],
     "license": "BSD-4-Clause",
     "authors": [
         {
