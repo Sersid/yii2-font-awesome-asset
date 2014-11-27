@@ -1,6 +1,6 @@
 Yii2 FontAwesome Asset
 ======
-Adding FontAwesome to your Yii2 project via Composer
+Adding [FontAwesome](http://fontawesome.io/) to your Yii2 project via Composer
 
 Installation
 ------------
