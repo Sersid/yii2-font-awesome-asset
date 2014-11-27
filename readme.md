@@ -36,7 +36,7 @@ sersid\fontawesome\Asset::register($this);
 But it could be that you wish to use it as part of another asset bundle or globally registered on your application. For the following example, we going to registered as part of the main application asset bundle AppAsset:
 
 ```php
-class FontAwesomeAsset extends AssetBundle
+class AppAsset extends AssetBundle
 {
     public $depends = [
         ...
