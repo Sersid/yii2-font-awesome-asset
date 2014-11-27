@@ -1,9 +1,9 @@
 <?php
-namespace sersid\assets;
+namespace sersid\fontawesome;
 
 use yii\web\AssetBundle;
 
-class FontAwesomeAsset extends AssetBundle
+class Asset extends AssetBundle
 {
     public $sourcePath = '@bower/fontawesome';
     public $css = [

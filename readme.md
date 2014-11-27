@@ -30,7 +30,7 @@ The following example is if you wish to register the bundle on a specific view
 
 ```php
 // this code is written on that specific view
-sersid\assets\FontAwesomeAsset::register($this);
+sersid\fontawesome\Asset::register($this);
 ```
 
 But it could be that you wish to use it as part of another asset bundle or globally registered on your application. For the following example, we going to registered as part of the main application asset bundle AppAsset:
@@ -40,7 +40,7 @@ class FontAwesomeAsset extends AssetBundle
 {
     public $depends = [
         ...
-        'sersid\assets\FontAwesomeAsset'
+        'sersid\fontawesome\Asset'
     ];
 }
 ```
